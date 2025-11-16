@@ -1,0 +1,26 @@
+{
+  "Chess Club": {
+    "description": "Sharpen your mind and compete in weekly chess matches.",
+    "schedule": "Wednesdays 3:30-5:00pm, Room 204",
+    "max_participants": 12,
+    "participants": ["alice@mergington.edu", "bob@mergington.edu", "carol@mergington.edu"]
+  },
+  "Robotics Team": {
+    "description": "Design, build, and program robots for competitions.",
+    "schedule": "Mondays & Thursdays 4:00-6:00pm, Lab 3",
+    "max_participants": 15,
+    "participants": ["dave@mergington.edu", "eve@mergington.edu"]
+  },
+  "Drama Club": {
+    "description": "Act, direct, and produce school plays and skits.",
+    "schedule": "Tuesdays 3:30-5:30pm, Auditorium",
+    "max_participants": 20,
+    "participants": []
+  },
+  "Art Society": {
+    "description": "Explore painting, sculpture, and digital art in a creative group.",
+    "schedule": "Fridays 3:30-5:00pm, Art Room",
+    "max_participants": 10,
+    "participants": ["frank@mergington.edu"]
+  }
+}
