@@ -90,10 +90,17 @@ section h3 {
   font-weight: bold;
 }
 
+
 .participants-list {
   list-style-type: disc;
   padding-left: 22px;
   margin: 0;
+}
+
+/* Hide bullet points for participants list */
+.participants-list.no-bullets {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .participants-list li {
